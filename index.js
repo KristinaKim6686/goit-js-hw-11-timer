@@ -1,5 +1,5 @@
 class CountdownTimer {
-  constructor({ selector, targetDate, getRefs }) {
+  constructor({ selector, targetDate }) {
     this.selector = selector;
     this.targetDate = targetDate;
 
